@@ -1,0 +1,6 @@
+{
+  "name": "Las Recetas de Peludo",
+  "description": "Aplicación gastronómica de recetas de cocina casera, moderna y deliciosa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
